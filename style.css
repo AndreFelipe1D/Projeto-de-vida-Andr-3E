@@ -12,9 +12,6 @@
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family:"Chakra Petch", sans-serif;
-    margin: 0;
-    padding: 0;
-    height: 100vh;
     }
 .conteúdo-principal {
     display: flex;
