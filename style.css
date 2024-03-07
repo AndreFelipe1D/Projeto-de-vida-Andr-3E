@@ -9,11 +9,11 @@
     --texto-fundo: rgba(58, 55, 94, 0.3); 
 }
 .body{
-    background-color: #1E1E1E var(--cor-de-fundo);
+    background-color: var(--cor-de-fundo);
     color:(--branco);
     font-family:"Chakra Petch"sans-serif;
 }
-.conteúdo-principal{
+.conteúdo-principal {
     display: flex;
     flex-direction: column;
     justify-content:center;
