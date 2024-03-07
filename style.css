@@ -8,7 +8,7 @@
     --botao-inativo: rgba(58, 55, 94, 0.5); 
     --texto-fundo: rgba(58, 55, 94, 0.3); 
 }
-.body{
+.conteúdo-principal{
     background-color: var(--cor-de-fundo);
     color:(--branco);
     font-family:'Chakra Petch'sans-serif;
