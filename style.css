@@ -12,8 +12,6 @@
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family:"Chakra Petch", sans-serif;
-    float: 77px ;
-    position: fixed;
     }
 .conteúdo-principal {
     display: flex;
@@ -25,7 +23,7 @@
     margin: 0 auto;
 }
 .titulo-principal{
-    text-align: left;
+    text-align: center;
     width: 100%;
     font-size: 32px;
 }
