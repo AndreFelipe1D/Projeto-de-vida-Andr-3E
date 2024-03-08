@@ -12,8 +12,8 @@
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family:"Chakra Petch", sans-serif;
-    width: 1200px;
-    }
+    margin: 1200px;
+}
 .conteúdo-principal {
     display: flex;
     flex-direction: column;
