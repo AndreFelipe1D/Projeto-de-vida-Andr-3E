@@ -15,6 +15,6 @@ textos[i].classList.add("ativo");
 
 const contadores = document.querySelectorAll(".contador");
 
-const tempoObjetivo1 = new Date("2024-10-05");
+const tempoObjetivo1 = new Date("2024-11-17T00:00:00");
 
 contadores[0].textContent = tempoObjetivo1;
