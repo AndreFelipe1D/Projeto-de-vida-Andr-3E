@@ -52,3 +52,5 @@ function comecaCronometro(){
 }
 
 comecaCronometro();
+
+//comecaCronometro
